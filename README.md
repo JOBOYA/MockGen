@@ -1,6 +1,6 @@
 # MockGen
 
-![Project Logo](/assets/mockgen.png)
+![Project Logo](src/assets/mockgen.png)
 
 ## Description
 

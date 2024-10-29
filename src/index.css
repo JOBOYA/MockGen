@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 font-space-grotesk;
+}
+
+::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+::-webkit-color-swatch {
+  border: none;
+  border-radius: 0.5rem;
+}
+
+@keyframes scanning {
+  0% { transform: translateX(-300%); }
+  100% { transform: translateX(300%); }
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Add smooth transitions for tab content */
+[class*="transition-all"] {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+.font-space-grotesk {
+  font-family: 'Space Grotesk', sans-serif;
+}

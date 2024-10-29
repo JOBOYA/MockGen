@@ -54,7 +54,7 @@ VITE_REMOVE_BG_API_KEY=your-api-key-here
 ## Project Structure
 
 ```
-your-project/
+mockgen/
 ├── .gitignore
 ├── .env.example
 ├── eslint.config.js

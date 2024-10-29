@@ -84,4 +84,9 @@ Contributions are welcome! Please follow these steps to contribute:
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
+<<<<<<< HEAD
 5. Open a Pull Request.
+=======
+5. Open a Pull Request.
+
+>>>>>>> c6907e369a809ea77105b663eb4b9de1e78287f4

@@ -17,7 +17,7 @@ This project is a web application built with React that allows users to upload a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mockgen.git
+   git clone https://github.com/joboya/mockgen.git
    ```
 
 2. Navigate to the project directory:

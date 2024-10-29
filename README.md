@@ -37,10 +37,10 @@ This project is a web application built with React that allows users to upload a
 To start the application, run:
 
 ```bash
-npm start
+npm run dev
 ```
 
-Then, open your browser and go to `http://localhost:3000` to see the application in action.
+Then, open your browser and go to `http://localhost:5173` to see the application in action.
 
 ## Configuration
 

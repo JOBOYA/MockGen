@@ -1,4 +1,4 @@
-# Project Name
+# MockGen
 
 ## Description
 
@@ -18,13 +18,13 @@ This project is a web application built with React that allows users to upload a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/your-username/mockgen.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project
+   cd mockgen
    ```
 
 3. Install the dependencies:
@@ -54,7 +54,7 @@ VITE_REMOVE_BG_API_KEY=your-api-key-here
 ## Project Structure
 
 ```
-your-project/
+mockgen/
 ├── .gitignore
 ├── .env.example
 ├── eslint.config.js
@@ -85,6 +85,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

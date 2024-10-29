@@ -1,5 +1,7 @@
 # MockGen
 
+![Project Logo](./assets/mockgen.png)
+
 ## Description
 
 This project is a web application built with React that allows users to upload and edit images. It offers features such as background removal, color selection, device frame addition, and other visual customization options.
@@ -11,14 +13,13 @@ This project is a web application built with React that allows users to upload a
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mockgen.git
+   git clone https://github.com/joboya/mockgen.git
    ```
 
 2. Navigate to the project directory:
@@ -38,10 +39,10 @@ This project is a web application built with React that allows users to upload a
 To start the application, run:
 
 ```bash
-npm start
+npm run dev
 ```
 
-Then, open your browser and go to `http://localhost:3000` to see the application in action.
+Then, open your browser and go to `http://localhost:5173` to see the application in action.
 
 ## Configuration
 
@@ -84,10 +85,3 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-<<<<<<< HEAD
-=======
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
->>>>>>> 6713cbc27e2f67876d0bfefc5005be74689deed4
